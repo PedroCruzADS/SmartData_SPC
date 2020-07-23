@@ -18,4 +18,6 @@
 
 ### Analisamos os dados que recebemos pela SPC Brasil (Tabelas, arquivos ppt), definir as tecnologias que usaremos além de definir o ambiente que manipularemos os dados e como vamos gerar  valor através deles.
 
+file:///C:/Users/PEDRO-PC/OneDrive/%C3%81rea%20de%20Trabalho/Anota%C3%A7%C3%A3o%202020-07-23%20144105.jpg
+
 
