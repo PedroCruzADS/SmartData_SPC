@@ -6,8 +6,8 @@
 
 # **Matérias integradas**
 ### Engenharia de software: Prof. Giuliano Bertoti
-### Linguagem de Progamação: Profª. Juliana Martinez
-### Sistema de informação: Prof. Walmir Duque
+### Linguagem de Programação: Profª. Juliana Martinez
+### Sistemas de informação: Prof. Walmir Duque
 
 # **Equipe**
 ### **Scrum Master:** Davi Neves
